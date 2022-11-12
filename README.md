@@ -1,7 +1,7 @@
-# To do Uygulaması
+# To do App
 
-# Proje Özeti
-To do uygulamaları gün içerisinde yapacağımız işleri liste halinde yazmaya ve işlerimizi daha planlı programlı halde takip etmeye yarayan uygulamalardır.Ben de yeni şeyler öğrenmek ve kendimi geliştirmek için bu tarz bir uygulama geliştirmenin faydalı olacağını düşündüm.
+# Project Summary
+To do applications are applications that allow us to list the works we will do during the day and to follow our works in a more planned and programmed way. I thought it would be useful to develop such an application to learn new things and improve myself.
 
-# Anasayfa
-Uygulama anasayfasında sizi o gün yapmayı planladığınız işlerin bir listesi ve listeye yeni görevler eklemenizi sağlayan bir metin alanıyla buton karşılayacak.Listeden işlerinizi takip edebilir ve yapmayı tamamladığınız işlerin üzerine dokunarak kaldırabilirsiniz.Yeni bir görev eklemek istediğinizde ise metin alanına yeni görevi yazmanız ardından butona tıklamanız yeterli olacaktır.
+# Home
+On the application homepage, you will find a button with a list of the works you plan to do that day and a text field that allows you to add new tasks to the list. You can follow your works from the list and remove them by tapping on the works you have completed. If you want to add a new task, write the new task in the text field and then click the button.
